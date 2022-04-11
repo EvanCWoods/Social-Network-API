@@ -28,6 +28,11 @@ The application also sends the updated or added fields as a response to PUT or P
 
 ![PUT](./Assets/example2.png)
 
+
+The video demonstration is viewable at the following link:
+https://drive.google.com/file/d/1SctqP3iy9Fl_hG1X7wXNp_z0ep5hTac2/view
+
+
 ## Technologies
 * Express js
 * Node js
